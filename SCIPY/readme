@@ -1,2 +1,19 @@
 The scipy package contains various toolboxes dedicated to common issues in scientific computing. 
 Its different submodules correspond to different applications, such as interpolation, integration, optimization, image processing, statistics, special functions, et       
+scipy is composed of task-specific sub-modules:
+
+scipy.cluster	Vector quantization / Kmeans
+scipy.constants	Physical and mathematical constants
+scipy.fftpack	Fourier transform
+scipy.integrate	Integration routines
+scipy.interpolate	Interpolation
+scipy.io	Data input and output
+scipy.linalg	Linear algebra routines
+scipy.ndimage	n-dimensional image package
+scipy.odr	Orthogonal distance regression
+scipy.optimize	Optimization
+scipy.signal	Signal processing
+scipy.sparse	Sparse matrices
+scipy.spatial	Spatial data structures and algorithms
+scipy.special	Any special mathematical functions
+scipy.stats	Statistics
